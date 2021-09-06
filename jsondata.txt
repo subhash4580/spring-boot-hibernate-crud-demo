@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "shg_code": "1111",
+      "meeting_freq": "W",
+      "isNew":"NEW",
+      "capturing_mode":"A",
+      "is_rf_returned": "Y",
+      "rf_returned_to": "33",
+      "cif_returned_to": "",
+      "cashbook_no": "96",
+      "cashbook_page_no": "222",
+      "president": "1",
+      "secretary": "1",
+      "treasurer": "33",
+      "bookkeeper": "other",
+      "bookkeeper_name": "ABC",
+      "bookkeeper_father_name": "T",
+      "saving_frequency_members":"W",
+      "shg_activity_category": 1,
+      "shg_activity_sub_category": 1,
+      "shg_activity_description": "TT",
+      "shg_setting_saving": [
+        {
+          "saving_id": "1",
+          "amount": "12",
+          "roi": "123"
+        },
+        {
+          "saving_id":"2",
+          "amount": "10",
+          "roi": "124"
+        }
+      ],
+      "member_nominee": [
+        {
+          "member_code": "2722198",
+          "nominee_name": "",
+          "nominee_relation": ""
+        }
+      ],
+      "member_activity": [
+        {
+          "member_code": "2722198",
+          "as_shg_member": "",
+          "as_individual": ""
+        }
+      ]
+      
+    }
+  ]
+}
